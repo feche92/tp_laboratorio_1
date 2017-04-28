@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1493318514 source:c:\users\bocasosmivida\desktop\programacion y laboratorio i\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493317462 c:\users\bocasosmivida\desktop\programacion y laboratorio i\tp_2_cascara\funciones.h
+
+1493317462 source:c:\users\bocasosmivida\desktop\programacion y laboratorio i\tp_2_cascara\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493141987 source:d:\tp_2_cascara\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493147387 d:\tp_2_cascara\funciones.h
+
+1493141717 source:d:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493223768 source:f:\tp_2_cascara\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493223768 f:\tp_2_cascara\funciones.h
+
+1493224505 source:f:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493224633 source:c:\users\bocasosmivida\desktop\tp_2_cascara\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493223768 c:\users\bocasosmivida\desktop\tp_2_cascara\funciones.h
+
+1493224505 source:c:\users\bocasosmivida\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493317462 source:c:\users\bocasosmivida\desktop\programacion y laboratorio i\t.p2\t.p.2\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493317462 c:\users\bocasosmivida\desktop\programacion y laboratorio i\t.p2\t.p.2\funciones.h
+
+1493398495 source:c:\users\bocasosmivida\desktop\programacion y laboratorio i\t.p2\t.p.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
