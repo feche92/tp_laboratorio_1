@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\bin\Debug\Test paleta WDF.exe.config
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\bin\Debug\Test paleta WDF.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\bin\Debug\Test paleta WDF.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\bin\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\bin\Debug\Clase06.Entidades.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test paleta WDF.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test_paleta_WDF.FrmPaleta.resources
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test_paleta_WDF.Properties.Resources.resources
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test paleta WDF.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test paleta WDF.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test paleta WDF.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Test paleta WDF\obj\Debug\Test_paleta_WDF.FrmTempera.resources

@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Entidades.Clase05\bin\Debug\Entidades.Clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Entidades.Clase05\bin\Debug\Entidades.Clase05.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Entidades.Clase05\obj\Debug\Entidades.Clase05.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Entidades.Clase05\obj\Debug\Entidades.Clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Entidades.Clase05\obj\Debug\Entidades.Clase05.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Entidades.Clase05\bin\Debug\Entidades.Clase05.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Entidades.Clase05\bin\Debug\Entidades.Clase05.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Entidades.Clase05\obj\Debug\Entidades.Clase05.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ivagaza.Federico\Entidades.Clase05\obj\Debug\Entidades.Clase05.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Entidades.Clase05\obj\Debug\Entidades.Clase05.pdb

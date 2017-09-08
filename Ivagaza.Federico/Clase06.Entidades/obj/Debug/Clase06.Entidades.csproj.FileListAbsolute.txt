@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase06.Entidades\bin\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase06.Entidades\bin\Debug\Clase06.Entidades.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.pdb
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\Ivagaza.Federico\Clase06.Entidades\bin\Debug\Clase06.Entidades.dll
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\Ivagaza.Federico\Clase06.Entidades\bin\Debug\Clase06.Entidades.pdb
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.dll
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\Ivagaza.Federico\Clase06.Entidades\obj\Debug\Clase06.Entidades.pdb

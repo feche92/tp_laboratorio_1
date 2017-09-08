@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\bin\Debug\Clase 6.exe.config
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\bin\Debug\Clase 6.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\bin\Debug\Clase 6.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\bin\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\bin\Debug\Clase06.Entidades.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\obj\Debug\Clase 6.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\obj\Debug\Clase 6.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase 6\obj\Debug\Clase 6.pdb

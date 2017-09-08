@@ -1,0 +1,16 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\bin\Debug\Clase5.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\bin\Debug\Clase5.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\bin\Debug\Clase5.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\bin\Debug\Entidades.Clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\bin\Debug\Entidades.Clase05.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\obj\Debug\Clase5.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\obj\Debug\Clase5.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\Clase5\obj\Debug\Clase5.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\bin\Debug\Clase5.exe.config
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\obj\Debug\Clase5.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\obj\Debug\Clase5.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\bin\Debug\Clase5.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\bin\Debug\Clase5.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\bin\Debug\Entidades.Clase05.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\bin\Debug\Entidades.Clase05.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\Clase5\obj\Debug\Clase5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\clase4\bin\Debug\clase4.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\clase4\bin\Debug\clase4.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\clase4\bin\Debug\clase4.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\clase4\obj\Debug\clase4.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\clase4\obj\Debug\clase4.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico\clase4\obj\Debug\clase4.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\clase4\bin\Debug\clase4.exe.config
+C:\Users\alumno\Desktop\Ivagaza.Federico\clase4\bin\Debug\clase4.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\clase4\bin\Debug\clase4.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico\clase4\obj\Debug\clase4.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ivagaza.Federico\clase4\obj\Debug\clase4.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico\clase4\obj\Debug\clase4.pdb
